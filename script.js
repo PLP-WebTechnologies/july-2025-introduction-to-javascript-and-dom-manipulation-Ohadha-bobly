@@ -1,4 +1,4 @@
-// 🎯 Part 1: Basics
+//  Part 1: Basics
 
 // Variables & conditionals
 let username = prompt("Enter your name:");
